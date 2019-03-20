@@ -5,40 +5,47 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="blog">
+  <meta name="author" content="Fahd Ouassarni">
 
   <title>Tales of My life - Blog</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
   <!-- Custom styles for this template -->
-  <link href="css/blog-home.css" rel="stylesheet">
+  <!-- <link href="css/blog-home.css" rel="stylesheet"> -->
+  <link href="css/blog-agency.css" rel="stylesheet">
 
 </head>
 
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top navbar-shrink" id="mainNav">
     <div class="container">
-      <a class="navbar-brand" href="#">Tales of My life</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Tales of My life</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fa fa-bars"></i>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="https://oussfahd.xyz">Home
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
+        <ul class="navbar-nav text-uppercase ml-auto">
           <li class="nav-item">
             <a class="nav-link" href="https://oussfahd.xyz/index.html#about">About</a>
           </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Blog</a>
+          <li class="nav-item">
+            <a class="nav-link" href="https://resume.oussfahd.xyz">Resume</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" href="#">Blog</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="https://soon.oussfahd.xyz">Code</a>
@@ -185,16 +192,64 @@
   <!-- /.container -->
 
   <!-- Footer -->
-  <footer class="py-5 bg-dark">
+  <footer id=social>
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
+      <div class="row">
+        <div class="col-md-3">
+          <span class="copyright">Copyright &copy; <span id="date"></span></span>
+        </div>
+        <div class="col-md">
+          <a href="https://www.facebook.com/ouss.fahd">
+            <i class="fa fa-3x fa-facebook-square"></i>
+          </a>
+        </div>
+        <div class="col-md">
+          <a href="https://www.instagram.com/fahdouassarni">
+            <i class="fa fa-3x fa-instagram"></i>
+          </a>
+        </div>
+        <div class="col-md">
+          <a href="https://www.youtube.com/c/FahdOuassarni">
+            <i class="fa fa-3x fa-youtube-square"></i>
+          </a>
+        </div>
+        <div class="col-md">
+          <a href="https://www.twitch.tv/oussfahd">
+            <i class="fa fa-3x fa-twitch"></i>
+          </a>
+        </div>
+        <div class="col-md">
+          <a href="https://github.com/ouassarnifahd">
+            <i class="fa fa-3x fa-github-square"></i>
+          </a>
+        </div>
+        <div class="col-md">
+          <a href="https://linkedin.com/in/fahd-ouassarni">
+            <i class="fa fa-3x fa-linkedin-square"></i>
+          </a>
+        </div>
+        <div class="col-md-3">
+          <ul class="list-inline quicklinks">
+            <li class="list-inline-item">
+              <a>With <i class="fa fa-heart"></i> at Caen.</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
-    <!-- /.container -->
   </footer>
+
+  <!-- Current year -->
+  <script>
+    document.getElementById("date").innerHTML = new Date().getFullYear();
+  </script>
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/agency.min.js"></script>
 
 </body>
 
