@@ -4,9 +4,9 @@
 
 <channel>
 <title>Tales of My life - Blog RSS Feed</title>
-<description>A brief description of your RSS feed.</description>
+<description>Just an automated blog RSS feed.</description>
 <language>en-us</language>
-<link>http://blog.oussfahd.xyz/rss.xml</link>
+<link>http://blog.oussfahd.xyz/index.html</link>
 <atom:link href="http://blog.oussfahd.xyz/rss.xml" rel="self" type="application/rss+xml" />
 
 <!-- NextPost -->
