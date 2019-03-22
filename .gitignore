@@ -1,1 +1,8 @@
 node_modules
+*.json
+*.yml
+README.md
+manager
+.DS_Store
+lb
+bstrap

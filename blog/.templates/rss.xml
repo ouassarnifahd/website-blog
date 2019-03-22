@@ -1,0 +1,10 @@
+
+<item>
+    <title>RSS_TITLE</title>
+    <guid>RSS_GUID</guid>
+    <pubDate>RSS_DATE</pubDate>
+    <description>
+        <![CDATA[ RSS_CONTENT
+        ]]>
+    </description>
+</item>
