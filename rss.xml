@@ -12,6 +12,41 @@
 <!-- NextPost -->
 
 <item>
+    <title></title>
+    <link>https://blog.oussfahd.xyz/2019/sample.html</link>
+    <guid>/home/kalinka/Documents/website/blog/2019#sample</guid>
+    <pubDate>Sat, 23 Mar 2019 01:22:26 +0100</pubDate>
+    <description>
+        <![CDATA[ 
+<!-- Description -->
+<p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+
+<h2 class="section-heading">The Final Frontier</h2>
+
+<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+
+<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
+
+<h2 class="section-heading">Reaching for the Stars</h2>
+
+<p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
+
+<!-- MEDIA1="real/path/to/media.ext" -->
+<a href="#">
+    <img class="img-fluid" src="MEDIA1" alt="">
+</a>
+
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+<p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+
+<p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+        ]]>
+    </description>
+    <enclosure url="https://blog.oussfahd.xyz/2019/sample/cover.jpg" length="" type=" cannot open `/home/kalinka/Documents/website/blog/2019/sample/cover.jpg' (No such file or directory)"/>
+</item>
+
+<item>
     <title>New Post</title>
     <guid>https://blog.oussfahd.xyz/index.html#new-post</guid>
     <pubDate>Fri, 22 Mar 2019 03:50:18 +0100</pubDate>
