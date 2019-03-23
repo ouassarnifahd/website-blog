@@ -12,9 +12,9 @@
 <!-- NextPost -->
 
 <item>
-    <title></title>
+    <title>Sample</title>
     <link>https://blog.oussfahd.xyz/2019/sample.html</link>
-    <guid>/home/kalinka/Documents/website/blog/2019#sample</guid>
+    <guid>2019#sample</guid>
     <pubDate>Sat, 23 Mar 2019 01:22:26 +0100</pubDate>
     <description>
         <![CDATA[ 
@@ -43,8 +43,11 @@
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
         ]]>
     </description>
-    <enclosure url="https://blog.oussfahd.xyz/2019/sample/cover.jpg" length="" type=" cannot open `/home/kalinka/Documents/website/blog/2019/sample/cover.jpg' (No such file or directory)"/>
+    <enclosure url="https://blog.oussfahd.xyz/2019/sample/cover.jpg" length="1007801" type="image/jpeg"/>
 </item>
+
+
+
 
 <item>
     <title>New Post</title>
